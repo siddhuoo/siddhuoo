@@ -8,4 +8,5 @@
 
 
 📫 siddheshkumbhar.dev@gmail.com 
-## 🛠️ Tech Stack #Java Developer 
+## 🛠️ Tech Stack
+#Full stack Java Developer 
